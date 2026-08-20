@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506215536895",
+    "project_id": "project-ba13b581-3ab1-4004-8e9",
+    "storage_bucket": "project-ba13b581-3ab1-4004-8e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506215536895:android:33446577c05c81a49c54ca",
+        "android_client_info": {
+          "package_name": "com.aistudio.phonesync.wkjrqp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYtCfmjYt8ES9OZMHv-jk3ktAzhjmiw0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
