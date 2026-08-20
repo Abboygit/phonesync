@@ -1,0 +1,6 @@
+{
+  "name": "Phone Activity Sync",
+  "description": "Cross-device SMS & call activity synchronization logger with deletion detection and live paired feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
